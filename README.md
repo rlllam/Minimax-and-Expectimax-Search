@@ -1,5 +1,5 @@
 # CSC384 A2: Pacman Minimax/Expectimax/MCTS Search
-This project is a variation of the "Pacman-General-Search-Algorithms-Visualizer" project.
+This project is a variation of the "Pacman-General-Search-Algorithms" project.
 
 Created four different game tree search agents to play the game “Pacman” in Python.
 Agents: Minimax; Minimax with Alpha-Beta Pruning; Expectimax; Monte-Carlo Tree Search (MCTS).
